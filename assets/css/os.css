@@ -1,0 +1,136 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.our-maindiv {
+    height:100%;
+    width:100%;
+    padding:20px;
+
+}
+.ourhead {
+    font-size: 25px;
+    color:black;
+}
+.opara {
+    font-size: 20px;
+    color:black;
+}
+.o-div {
+    text-align: center;
+    padding :10px;
+}
+.op-h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.our-main {
+  display:flex;
+  margin-right: 20px;
+  margin-top:10px ;   
+  margin-left: 360px;
+  padding-right: 50px;
+
+  margin-bottom: 30px;
+
+}
+.our-div>h1{
+    width: 200px;
+}
+.o-img {
+    height:200px;
+    width:200px;
+    padding-right: 50px;
+    
+}
+.op-div {
+    width:100%;
+    display:flex;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.o-h1 {
+    font-size: 20px;
+    text-align: center;
+
+}
+.o-para {
+    font-size: 20px;
+    color:gray;
+    float:left;
+    text-align: left;
+    padding:10px;
+    
+}
+.op-h1 {
+    font-size: 15px;
+    color:palevioletred;
+    float:left;
+    padding-left: 20px;
+    
+}
+.o-h2 {
+    font-size: 25px;
+    margin-top: 30px;
+}
+.op-para {
+    font-size:20px;
+    color:gray;
+    float:right;
+    margin-top: 30px;
+    
+}
+.op-div2 {
+   width:50%;
+float:right;
+}
+.or-div {
+    display:flex;
+    margin-top:40px;
+
+}
+.our-div {
+    width:50%;
+}
+
+button {
+    background-color: pink;
+    color:white;
+    border-radius: 25px;
+    padding:5px;
+    border-color: 1px solid pink;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.or-h1 {
+    width:50%;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.or-img {
+    height:400px;
+    width:500px;
+    margin-top:20px ;
+}
+.or-maindiv {
+    display:flex;
+    background-color: pink;
+    height:400px;
+    width:100%;
+    border-radius:20px;
+}
+.our-div1 {
+    width:50%;
+    padding:30px;
+    padding-left: 20px;
+}
+.our-h1 {
+    font-size: 30px;
+    color:black;
+}
+.our-para {
+    font-size: 20px;
+    margin-top: 20px;
+}

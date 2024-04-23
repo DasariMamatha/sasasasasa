@@ -1,0 +1,27 @@
+.ziwo-div {
+    height:300px;
+    width:100%;
+    display:flex;
+
+}
+.ziwo-h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+    
+}
+.ziwo-para {
+    font-size: 20px;
+}
+img {
+    height:300px;
+    width:50%;
+}
+button {
+    background-color: pink;
+    border-radius: 10px;
+    padding: 10px;
+}
+.tp-div8 {
+    display:flex;
+}
